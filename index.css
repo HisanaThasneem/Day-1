@@ -1,0 +1,23 @@
+a{
+   color:aqua;
+   text-decoration: none; 
+}
+#hisana{
+    background-color: blue;
+}
+#jennath{
+    background-color: bisque;
+}
+#hisjen{
+    background-color: brown;
+}
+#jenhis{
+    background-color: blueviolet;
+}
+.grp1{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid rgb(131, 102, 102);
+    margin:5%;
+    padding: 10px 30px 10px 50px;
+}
